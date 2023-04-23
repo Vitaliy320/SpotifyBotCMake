@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
 {
-	//startServer();
-	startTelegramBot();
+	startServer();
+	//startTelegramBot();
 	cout << "Hello CMake." << endl;
 	return 0;
 }
